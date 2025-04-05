@@ -15,10 +15,15 @@ body {
 
 .content {
   background: #e3f4ff;
+  border: 25px solid;
 }
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
+  padding: 50px;
+  margin-top: 50;
+  border: 60px solid pink;
 }
 
 button {
